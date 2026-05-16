@@ -100,7 +100,7 @@ Notes:
 
 Author:
 
-Ayush Parashar
+Riya Raj
 B.Tech, K.R.Mangalam University
 
 ----------------------------------------
