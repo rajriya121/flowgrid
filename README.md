@@ -101,6 +101,6 @@ Notes:
 Author:
 
 Riya Raj
-B.Tech, K.R.Mangalam University
+B.Tech, Accurate institute of tech and management
 
 ----------------------------------------
